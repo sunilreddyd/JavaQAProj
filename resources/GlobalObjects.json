@@ -1,0 +1,19 @@
+{
+	"application name": "IKA",
+	"version": 1.0,
+	"type": "Web Application",
+	
+	"MemberInfo-Page":{
+		"MemberID":		{"description":"1", "type":"id"},
+		"MemberID1":	{"description":"2", "type":"id"},
+		"MemberID2":	{"description":"3", "type":"id"},
+		"MemberID3":	{"description":"4", "type":"id"}
+	},
+	
+	"MemberInfo-Page2":{
+		"MemberID":		{"description":"1", "type":"id"},
+		"MemberID1":	{"description":"2", "type":"id"},
+		"MemberID2":	{"description":"3", "type":"id"},
+		"MemberID3":	{"description":"4", "type":"id"}
+	}	
+}
